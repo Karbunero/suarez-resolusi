@@ -1,0 +1,8 @@
+RENCANA KONTEN SUAREZ
+
+- Javascript
+  * ES6
+  * Framework Javacript
+- PHP Framework
+- Interview
+- Vlogs
