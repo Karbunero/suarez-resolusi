@@ -4,6 +4,7 @@ RENCANA KONTEN SUAREZ
   * ES6
   * Framework Javacript
    ^ Vue
+   ^ React
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
