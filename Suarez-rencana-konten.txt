@@ -3,6 +3,7 @@ RENCANA KONTEN SUAREZ
 - Javascript
   * ES6
   * Framework Javacript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
